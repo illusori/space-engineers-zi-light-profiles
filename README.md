@@ -22,3 +22,7 @@ Save your existing light configurations with a press of a button! Configure them
 * Try the "Capac" profile for some fun times and the inspiration to finally get around to writing this script.
 * Set your light profiles to different intensities and put them on a button bar: you now have a dimmer switch.
 * Use sensors to change to an "alert" profile when intruders are detected, and reset again afterwards.
+
+## Contributing:
+
+Zephyr Industries Light Profiles is open source, under an MIT license. You can contribute to or copy the code at https://github.com/illusori/space-engineers-zi-light-profiles.
